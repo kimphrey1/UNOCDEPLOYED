@@ -1,1 +1,1 @@
- web: gunicorn Procurement.wsgi
+ web: gunicorn Procurement.wsgi --log-file -
