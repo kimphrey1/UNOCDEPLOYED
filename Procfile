@@ -1,1 +1,1 @@
- web: gunicorn UNOC
+ web: gunicorn Procurement.wsgi
